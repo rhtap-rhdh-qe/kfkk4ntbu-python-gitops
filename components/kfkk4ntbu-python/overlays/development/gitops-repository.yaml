@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kfkk4ntbu-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/kfkk4ntbu-python-gitops
